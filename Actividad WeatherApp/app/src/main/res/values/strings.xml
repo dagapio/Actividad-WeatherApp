@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="title_weather_app">WEATHER APP</string>
+    <string name="temp_format">%s°C</string>
+</resources>
